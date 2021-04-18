@@ -1,0 +1,7 @@
+# Project exclude paths
+/extensions/extension-fault-injector/deployment/target/
+/extensions/extension-fault-injector/runtime/target/
+/super-heroes/load-super-heroes/target/
+/super-heroes/rest-villain/target/
+/super-heroes/ui-super-heroes/node_modules/
+/super-heroes/ui-super-heroes/target/
